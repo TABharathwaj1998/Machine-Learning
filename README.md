@@ -1,1 +1,1 @@
-These are some of Machine Learning Python programs done as assignments during my Graduate course in AI at Durham College. 
+These two are Machine Learning Python programs done as assignments during my Graduate course in AI at Durham College. Mostly related to Supervised Learning such as Decision Tree, Random Forest Classifier and KNN
